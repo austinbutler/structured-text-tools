@@ -103,6 +103,7 @@ CSV, TSV, and other delimiter-separated value formats. Tools belong on this list
 - [tab](http://tkatchev.bitbucket.io/tab/) **—** A non-Turing-complete statically typed programming language for data processing. An alternative to awk.
 - [teip](https://github.com/greymd/teip) **—** Select fields, character ranges, or regular expression matches from standard input. Replace them with the output of a command.
 - [tv](https://github.com/codechenx/tv) **—** View delimited files in the terminal.
+- [xan](https://github.com/medialab/xan) **-** Preview, filter, slice, aggregate, sort, and join CSV.
 - [xsv](https://github.com/BurntSushi/xsv) **—** Index, slice, analyze, split, and join CSV files.
 - [zsv](https://github.com/liquidaty/zsv) **—** Slice, combine, reformat, flatten/unflatten CSV (TSV, DSV) files. Query them with SQL and jq filters. Convert between them, JSON, and SQLite 3. Also a C library.
 
