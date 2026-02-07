@@ -548,6 +548,11 @@ url = "https://github.com/dkogan/vnlog/"
 descr = "Process labelled tabular ASCII data using normal UNIX tools. Can plot data with gnuplot."
 tags = ["awk-other"]
 
+[xan]
+url = "https://github.com/medialab/xan"
+descr = "Preview, filter, slice, aggregate, sort, and join CSV files."
+tags = ["csv"]
+
 [Xidel]
 url = "http://www.videlibri.de/xidel.html"
 descr = "Query or modify XML and HTML pages with XPath, XQuery 3, and CSS selectors."
